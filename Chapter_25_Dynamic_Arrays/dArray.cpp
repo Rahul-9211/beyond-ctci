@@ -108,6 +108,9 @@ public:
         }
         return -1;
     }
+    int _getcapacity() const{
+    return capacity;
+}
 };
 
 
