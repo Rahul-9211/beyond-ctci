@@ -103,8 +103,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests to a
 
 Hi, I'm Rahul! I'm passionate about algorithms, data structures, and helping others learn computer science fundamentals. You can find more of my work and connect with me here:
 
-- [GitHub](https://github.com/rahul)  
-- [LinkedIn](https://www.linkedin.com/in/rahul)  
-- [Personal Website](https://rahul.dev)
+- [GitHub](https://github.com/rahul-9211)  
+- [LinkedIn](https://www.linkedin.com/in/rahul-rawat-598ba918a)  
+- [Personal Website](https://hackrest.com)
 
 Thank you for visiting this repository! If you find it helpful, please consider starring or sharing it with others. 
